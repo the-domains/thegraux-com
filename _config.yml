@@ -2,6 +2,7 @@ name: thegraux.com
 favicon: null
 layout_spectrum: 0.4741441127844155
 typography_spectrum: 0.15732981800101697
+title: The Graux
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#ffffff'
+    - '#5f5f5f'
+    - '#9f9f9f'
+    - '#ff0000'
   brandStrength: 0.8061333373188972
   lightness: 0.307993225986138
   saturation: 0.005410982761532068
