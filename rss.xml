@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Graux]]></title>
         <description><![CDATA[The Graux]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://thegraux.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 09:56:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 22:22:44 GMT</lastBuildDate>
+        <atom:link href="http://thegraux.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a93a14f-0a4b-456c-815a-bcb0668e65ed.png">]]></description>
-            <link>undefinedba82e382-d231-4fe2-95a7-84d540ac66bc/index.html</link>
+            <link>http://thegraux.com/ba82e382-d231-4fe2-95a7-84d540ac66bc/index.html</link>
             <guid isPermaLink="false">ba82e382-d231-4fe2-95a7-84d540ac66bc</guid>
-            <pubDate>Sat, 05 Mar 2016 09:56:33 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 22:22:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
